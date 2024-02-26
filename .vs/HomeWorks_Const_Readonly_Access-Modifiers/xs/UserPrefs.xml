@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B4ACE303-3248-4772-8FEB-1710BB8CDEDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWorks_Const_Readonly_Access-Modifiers/Models/Test.cs">
+    <Files>
+      <File FileName="HomeWorks_Const_Readonly_Access-Modifiers/Models/Car.cs" Line="8" Column="23" />
+      <File FileName="HomeWorks_Const_Readonly_Access-Modifiers/Models/Test.cs" Line="9" Column="22" />
+      <File FileName="HomeWorks_Const_Readonly_Access-Modifiers/Program.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWorks_Const_Readonly_Access-Modifiers" expanded="True">
+            <Node name="HomeWorks_Const_Readonly_Access-Modifiers" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Constants" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Test.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HomeWorks__Const__Readonly__Access-Modifiers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
